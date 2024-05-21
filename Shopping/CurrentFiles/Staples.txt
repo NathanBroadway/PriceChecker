@@ -1,0 +1,13 @@
+﻿1,vegetrian chicken patty
+1,vegetarian chicken nuggets
+1,onion ring
+1,Fries
+2,Drink Enhancer
+1,Breakfast Biscuit
+1,Pancake Mix
+1,Tortilla
+1,Bread
+1,Cereal
+1,Kombucha
+1,Peanut Butter Wafer
+1,Graham Crackers

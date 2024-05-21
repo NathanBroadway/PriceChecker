@@ -1,0 +1,449 @@
+﻿[
+	{
+		"Name": "Millet",
+		"Substitute": "Bulgur"
+	},
+	{
+		"Name": "Pearl Barley",
+		"Substitute": "Quinoa"
+	},
+	{
+		"Name": "dry French lentil",
+		"Substitute": "Red bean"
+	},
+	{
+		"Name": "Allspice",
+		"Amount": "1 teaspoon",
+		"Substitute": "1/2 teaspoon cinnamon, 1/4 teaspoon ginger, and 1/4 teaspoon cloves"
+	},
+	{
+		"Name": "Arrowroot starch",
+		"Amount": "1 teaspoon",
+		"Substitute": "1 tablespoon flour OR 1 teaspoon cornstarch"
+	},
+	{
+		"Name": "Baking mix",
+		"Amount": "1 cup",
+		"Substitute": "1 cup pancake mix"
+	},
+	{
+		"Name": "Baking powder",
+		"Amount": "1 teaspoon",
+		"Substitute": "1/4 teaspoon baking soda plus 1/2 teaspoon cream of tartar OR 1/4 teaspoon baking soda plus 1/2 cup buttermilk (decrease liquid in recipe by 1/2 cup)"
+	},
+	{
+		"Name": "Baking soda",
+		"Amount": "1 teaspoon",
+		"Substitute": "4 teaspoons baking powder OR 1 teaspoon potassium bicarbonate and 1/3 teaspoon salt. NOTE: If the recipe calls for an acidic liquid such as sour cream, yogurt, buttermilk, vinegar, molasses, or citrus juice, you should replace it with the same amount of whole milk"
+	},
+	{
+		"Name": "Beer",
+		"Amount": "1 cup",
+		"Substitute": "1 cup nonalcoholic beer OR 1 cup chicken broth"
+	},
+	{
+		"Name": "Brandy",
+		"Amount": "1/4 cup",
+		"Substitute": "1 teaspoon imitation brandy extract plus enough water to make 1/4 cup"
+	},
+	{
+		"Name": "Bread crumbs",
+		"Amount": "1 cup",
+		"Substitute": "1 cup cracker crumbs OR 1 cup matzo meal OR 1 cup ground oats"
+	},
+	{
+		"Name": "Broth: beef or chicken",
+		"Amount": "1 cup",
+		"Substitute": "1 bouillon cube plus 1 cup boiling water OR 1 tablespoon soy sauce plus enough water to make 1 cup OR 1 cup vegetable broth"
+	},
+	{
+		"Name": "Brown sugar",
+		"Amount": "1 cup, packed",
+		"Substitute": "1 cup white sugar plus 1/4 cup molasses and decrease the liquid in recipe by 1/4 cup OR 1 cup white sugar OR 1 1/4 cups confectioners' sugar"
+	},
+	{
+		"Name": "Butter (salted)",
+		"Amount": "1 cup",
+		"Substitute": "1 cup margarine OR 1 cup shortening plus 1/2 teaspoon salt OR 7/8 cup vegetable oil plus 1/2 teaspoon salt OR 7/8 cup lard plus 1/2 teaspoon salt"
+	},
+	{
+		"Name": "Butter (unsalted)",
+		"Amount": "1 cup",
+		"Substitute": "1 cup shortening OR 7/8 cup vegetable oil OR 7/8 cup lard"
+	},
+	{
+		"Name": "Buttermilk",
+		"Amount": "1 cup",
+		"Substitute": "1 cup yogurt OR 1 tablespoon lemon juice or vinegar plus enough milk to make 1 cup"
+	},
+	{
+		"Name": "Cheddar cheese",
+		"Amount": "1 cup shredded",
+		"Substitute": "1 cup shredded Colby cheddar OR 1 cup shredded Monterey Jack cheese"
+	},
+	{
+		"Name": "Chervil",
+		"Amount": "1 tablespoon chopped fresh",
+		"Substitute": "1 tablespoon chopped fresh parsley"
+	},
+	{
+		"Name": "Chicken base",
+		"Amount": "1 tablespoon",
+		"Substitute": "1 cup canned or homemade chicken broth or stock. Reduce liquid in recipe by 1 cup"
+	},
+	{
+		"Name": "Chocolate (semisweet)",
+		"Amount": "1 ounce",
+		"Substitute": "1 (1-ounce) square of unsweetened chocolate plus 4 teaspoons sugar OR 1 ounce semisweet chocolate chips plus 1 teaspoon shortening"
+	},
+	{
+		"Name": "Chocolate (unsweetened)",
+		"Amount": "1 ounce",
+		"Substitute": "3 tablespoons unsweetened cocoa plus 1 tablespoon shortening or vegetable oil"
+	},
+	{
+		"Name": "Cocoa",
+		"Amount": "1/4 cup",
+		"Substitute": "1 (1-ounce) square unsweetened chocolate"
+	},
+	{
+		"Name": "Condensed cream of mushroom soup",
+		"Amount": "1 (10.75-ounce) can",
+		"Substitute": "1 (10.75-ounce) can condensed cream of celery, cream of chicken, or golden mushroom soup"
+	},
+	{
+		"Name": "Corn syrup",
+		"Amount": "1 cup",
+		"Substitute": "1 1/4 cup white sugar plus 1/3 cup water OR 1 cup honey OR 1 cup light treacle syrup"
+	},
+	{
+		"Name": "Cottage cheese",
+		"Amount": "1 cup",
+		"Substitute": "1 cup farmer's cheese OR 1 cup ricotta cheese"
+	},
+	{
+		"Name": "Cracker crumbs",
+		"Amount": "1 cup",
+		"Substitute": "1 cup bread crumbs OR 1 cup matzo meal OR 1 cup ground oats"
+	},
+	{
+		"Name": "Cream (half and half)",
+		"Amount": "1 cup",
+		"Substitute": "7/8 cup milk plus 1 tablespoon butter"
+	},
+	{
+		"Name": "Cream (heavy)",
+		"Amount": "1 cup",
+		"Substitute": "1 cup evaporated milk OR 3/4 cup milk plus 1/3 cup butter"
+	},
+	{
+		"Name": "Cream (light)",
+		"Amount": "1 cup",
+		"Substitute": "1 cup evaporated milk OR 3/4 cup milk plus 3 tablespoons butter"
+	},
+	{
+		"Name": "Cream (whipped)",
+		"Amount": "1 cup",
+		"Substitute": "1 cup frozen whipped topping, thawed"
+	},
+	{
+		"Name": "Cream of tartar",
+		"Amount": "1 teaspoon",
+		"Substitute": "2 teaspoons lemon juice or vinegar"
+	},
+	{
+		"Name": "Crème fraiche",
+		"Amount": "1 cup",
+		"Substitute": "Combine 1 cup of heavy cream and 1 tablespoon of plain yogurt. Let stand for 6 hours at room temperature"
+	},
+	{
+		"Name": "Egg",
+		"Amount": "1 whole (3 tablespoons or 1.7 oz)",
+		"Substitute": "2 1/2 tablespoons of powdered egg substitute plus 2 1/2 tablespoons water OR 1/4 cup liquid egg substitute OR 1/4 cup silken tofu pureed OR 3 tablespoons mayonnaise OR half a banana mashed with 1/2 teaspoon baking powder OR 1 tablespoon powdered flax seed soaked in 3 tablespoons water"
+	},
+	{
+		"Name": "Evaporated milk",
+		"Amount": "1 cup",
+		"Substitute": "1 cup light cream"
+	},
+	{
+		"Name": "Farmer's cheese",
+		"Amount": "8 ounces",
+		"Substitute": "8 ounces dry cottage cheese OR 8 ounces creamed cottage cheese, drained"
+	},
+	{
+		"Name": "Fats for baking",
+		"Amount": "1 cup",
+		"Substitute": "1 cup applesauce OR 1 cup fruit puree"
+	},
+	{
+		"Name": "Flour: bread",
+		"Amount": "1 cup",
+		"Substitute": "1 cup all-purpose flour plus 1 teaspoon wheat gluten"
+	},
+	{
+		"Name": "Flour: cake",
+		"Amount": "1 cup",
+		"Substitute": "1 cup all-purpose flour minus 2 tablespoons"
+	},
+	{
+		"Name": "Flour: self-Rising",
+		"Amount": "1 cup",
+		"Substitute": "7/8 cup all-purpose flour plus 1 1/2 teaspoons baking powder and 1/2 teaspoon of salt"
+	},
+	{
+		"Name": "Garlic",
+		"Amount": "1 clove",
+		"Substitute": "1/8 teaspoon garlic powder OR 1/2 teaspoon granulated garlic OR 1/2 teaspoon garlic salt, reduce salt in recipe"
+	},
+	{
+		"Name": "Gelatin",
+		"Amount": "1 tablespoon, granulated",
+		"Substitute": "2 teaspoons agar agar"
+	},
+	{
+		"Name": "Ginger (dry)",
+		"Amount": "1 teaspoon",
+		"Substitute": "2 teaspoons chopped fresh ginger"
+	},
+	{
+		"Name": "Ginger (fresh)",
+		"Amount": "1 teaspoon, minced",
+		"Substitute": "1/2 teaspoon ground dried ginger"
+	},
+	{
+		"Name": "Green onion",
+		"Amount": "1/2 cup , chopped",
+		"Substitute": "1/2 cup chopped onion OR 1/2 cup chopped leek OR 1/2 cup chopped shallots"
+	},
+	{
+		"Name": "Hazelnuts",
+		"Amount": "1 cup whole",
+		"Substitute": "1 cup macadamia nuts OR 1 cup almonds"
+	},
+	{
+		"Name": "Herbs (fresh)",
+		"Amount": "1 tablespoon chopped fresh",
+		"Substitute": "1 teaspoon (chopped or whole leaf) dried herbs"
+	},
+	{
+		"Name": "Herring",
+		"Amount": "8 ounces",
+		"Substitute": "8 ounces of sardines"
+	},
+	{
+		"Name": "Honey",
+		"Amount": "1 cup",
+		"Substitute": "1 1/4 cup white sugar plus 1/3 cup water OR 1 cup corn syrup OR 1 cup light treacle syrup"
+	},
+	{
+		"Name": "Hot pepper sauce",
+		"Amount": "1 teaspoon",
+		"Substitute": "3/4 teaspoon cayenne pepper plus 1 teaspoon vinegar"
+	},
+	{
+		"Name": "Lard",
+		"Amount": "1 cup",
+		"Substitute": "1 cup shortening OR 7/8 cup vegetable oil OR 1 cup butter"
+	},
+	{
+		"Name": "Lemon grass",
+		"Amount": "2 fresh stalks",
+		"Substitute": "1 tablespoon lemon zest"
+	},
+	{
+		"Name": "Lemon juice",
+		"Amount": "1 teaspoon",
+		"Substitute": "1/2 teaspoon vinegar OR 1 teaspoon white wine OR 1 teaspoon lime juice"
+	},
+	{
+		"Name": "Lemon zest",
+		"Amount": "1 teaspoon",
+		"Substitute": "1/2 teaspoon lemon extract OR 2 tablespoons lemon juice"
+	},
+	{
+		"Name": "Lime juice",
+		"Amount": "1 teaspoon",
+		"Substitute": "1 teaspoon vinegar OR 1 teaspoon white wine OR 1 teaspoon lemon juice"
+	},
+	{
+		"Name": "Lime zest",
+		"Amount": "1 teaspoon",
+		"Substitute": "1 teaspoon lemon zest"
+	},
+	{
+		"Name": "Macadamia nuts",
+		"Amount": "1 cup",
+		"Substitute": "1 cup almonds OR 1 cup hazelnuts"
+	},
+	{
+		"Name": "Mace",
+		"Amount": "1 teaspoon",
+		"Substitute": "1 teaspoon nutmeg"
+	},
+	{
+		"Name": "Margarine",
+		"Amount": "1 cup",
+		"Substitute": "1 cup shortening plus 1/2 teaspoon salt OR 1 cup butter OR 7/8 cup vegetable oil plus 1/2 teaspoon salt OR 7/8 cup lard plus 1/2 teaspoon salt"
+	},
+	{
+		"Name": "Mayonnaise",
+		"Amount": "1 cup",
+		"Substitute": "1 cup sour cream OR 1 cup plain yogurt"
+	},
+	{
+		"Name": "Milk (whole)",
+		"Amount": "1 cup",
+		"Substitute": "1 cup soy milk OR 1 cup rice milk OR 1 cup water or juice OR 1/4 cup dry milk powder plus 1 cup water OR 2/3 cup evaporated milk plus 1/3 cup water"
+	},
+	{
+		"Name": "Mint (fresh)",
+		"Amount": "1/4 cup chopped",
+		"Substitute": "1 tablespoon dried mint leaves"
+	},
+	{
+		"Name": "Molasses",
+		"Amount": "1 cup",
+		"Substitute": "Mix 3/4 cup brown sugar and 1 teaspoon cream of tartar"
+	},
+	{
+		"Name": "Mustard: prepared",
+		"Amount": "1 tablespoon",
+		"Substitute": "Mix together 1 tablespoon dried mustard, 1 teaspoon water, 1 teaspoon vinegar and 1 teaspoon sugar"
+	},
+	{
+		"Name": "Onion",
+		"Amount": "1 cup, chopped",
+		"Substitute": "1 cup chopped green onions OR 1 cup chopped shallots OR 1 cup chopped leeks OR 1/4 cup dried minced onion OR 1/4 cup onion powder"
+	},
+	{
+		"Name": "Orange juice",
+		"Amount": "1 tablespoon",
+		"Substitute": "1 tablespoon other citrus juice"
+	},
+	{
+		"Name": "Orange zest",
+		"Amount": "1 tablespoon",
+		"Substitute": "1/2 teaspoon orange extract OR 1 teaspoon lemon juice"
+	},
+	{
+		"Name": "Parmesan cheese",
+		"Amount": "1/2 cup, grated",
+		"Substitute": "1/2 cup grated Asiago cheese OR 1/2 cup grated Romano cheese"
+	},
+	{
+		"Name": "Parsley",
+		"Amount": "1 tablespoon chopped fresh",
+		"Substitute": "1 tablespoon chopped fresh chervil OR 1 teaspoon dried parsley"
+	},
+	{
+		"Name": "Pepperoni",
+		"Amount": "1 ounce",
+		"Substitute": "1 ounce salami"
+	},
+	{
+		"Name": "Raisin",
+		"Amount": "1 cup",
+		"Substitute": "1 cup dried currants OR 1 cup dried cranberries OR 1 cup chopped pitted prunes"
+	},
+	{
+		"Name": "Rice: white",
+		"Amount": "1 cup, cooked",
+		"Substitute": "1 cup cooked barley OR 1 cup cooked bulgur OR 1 cup cooked brown or wild rice"
+	},
+	{
+		"Name": "Ricotta",
+		"Amount": "1 cup",
+		"Substitute": "1 cup dry cottage cheese OR 1 cup silken tofu"
+	},
+	{
+		"Name": "Rum",
+		"Amount": "1 tablespoon",
+		"Substitute": "1/2 teaspoon rum extract, plus enough water to make 1 tablespoon"
+	},
+	{
+		"Name": "Saffron",
+		"Amount": "1/4 teaspoon",
+		"Substitute": "1/4 teaspoon turmeric"
+	},
+	{
+		"Name": "Salami",
+		"Amount": "1 ounce",
+		"Substitute": "1 ounce pepperoni"
+	},
+	{
+		"Name": "Semisweet chocolate chips",
+		"Amount": "1 cup",
+		"Substitute": "1 cup chocolate candies OR 1 cup peanut butter or other flavored chips OR 1 cup chopped nuts OR 1 cup chopped dried fruit"
+	},
+	{
+		"Name": "Shallots, chopped",
+		"Amount": "1/2 cup",
+		"Substitute": "1/2 cup chopped onion OR 1/2 cup chopped leek OR 1/2 cup chopped green onion"
+	},
+	{
+		"Name": "Shortening",
+		"Amount": "1 cup",
+		"Substitute": "1 cup butter OR 1 cup margarine minus 1/2 teaspoon salt from recipe"
+	},
+	{
+		"Name": "Sour cream",
+		"Amount": "1 cup",
+		"Substitute": "1 cup plain yogurt OR 1 tablespoon lemon juice or vinegar plus enough cream to make 1 cup OR 3/4 cup buttermilk mixed with 1/3 cup butter"
+	},
+	{
+		"Name": "Sour milk",
+		"Amount": "1 cup",
+		"Substitute": "1 tablespoon vinegar or lemon juice mixed with enough milk to make 1 cup: Let stand 5 minutes to thicken"
+	},
+	{
+		"Name": "Soy sauce",
+		"Amount": "1/2 cup",
+		"Substitute": "1/4 cup Worcestershire sauce mixed with 1 tablespoon water"
+	},
+	{
+		"Name": "Stock: beef or chicken",
+		"Amount": "1 cup",
+		"Substitute": "1 cube beef or chicken bouillon dissolved in 1 cup water"
+	},
+	{
+		"Name": "Sweetened condensed milk",
+		"Amount": "1 (14-ounce) can",
+		"Substitute": "3/4 cup white sugar mixed with 1/2 cup water and 1 1/8 cups dry powdered milk: Bring to a boil and cook, stirring frequently, until thickened, about 20 minutes"
+	},
+	{
+		"Name": "Vegetable oil (for baking)",
+		"Amount": "1 cup",
+		"Substitute": "1 cup applesauce OR 1 cup fruit puree"
+	},
+	{
+		"Name": "Vegetable oil (for frying)",
+		"Amount": "1 cup",
+		"Substitute": "1 cup lard OR 1 cup vegetable shortening"
+	},
+	{
+		"Name": "Vinegar",
+		"Amount": "1 teaspoon",
+		"Substitute": "1 teaspoon lemon or lime juice OR 2 teaspoons white wine"
+	},
+	{
+		"Name": "White sugar",
+		"Amount": "1 cup",
+		"Substitute": "1 cup brown sugar OR 1 1/4 cups confectioners' sugar OR 3/4 cup honey OR 3/4 cup corn syrup"
+	},
+	{
+		"Name": "Wine",
+		"Amount": "1 cup",
+		"Substitute": "1 cup chicken or beef broth OR 1 cup fruit juice mixed with 2 teaspoons vinegar OR 1 cup water"
+	},
+	{
+		"Name": "Yeast: active dry",
+		"Amount": "1 (.25-ounce) package",
+		"Substitute": "1 cake compressed yeast OR 2 1/2 teaspoons active dry yeast OR 2 1/2 teaspoons rapid rise yeast"
+	},
+	{
+		"Name": "Yogurt",
+		"Amount": "1 cup",
+		"Substitute": "1 cup sour cream OR 1 cup buttermilk OR 1 cup sour milk"
+	}
+]

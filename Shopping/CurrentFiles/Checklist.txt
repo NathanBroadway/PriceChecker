@@ -1,0 +1,34 @@
+﻿1,vegetrian chicken patty
+1,vegetarian chicken nuggets
+1,onion ring
+1,Fries
+Drink Enhancer
+Breakfast Biscuit
+1,Pancake Mix
+1,Tortilla
+1,Bread
+Cereal
+1,Kombucha
+1,Almond Milk
+1,Peanut Butter Wafer
+1,Graham Crackers
+1,Pizza
+1,Jelly
+1,Peanut Butter
+1,BBQ Sauce
+1,Body Wash
+1,Laundry soap
+1,PUR Filter
+1,Deodurant
+1,Toothpaste
+1,Acne Soap
+1,AA Batteries
+1,Storage Bags
+1,61 Colored Ink Cartridge
+1,61 Black Ink Cartridge
+1,EmergenC
+1,Toilet Paper
+1,Paper Towels
+1,Children's Multi-Vitamin
+1,Burts Bee's Body Wash
+1,vegetable oil
